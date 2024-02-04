@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="42873" started-at="2017-11-17T06:13:25Z" finished-at="2017-11-17T06:14:08Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="42873" started-at="2017-11-17T06:13:25Z" finished-at="2017-11-17T06:14:08Z">
+      <class name="test.ExecuteTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:test.ExecuteTest@46d56d67]" name="setup" is-config="true" duration-ms="26910" started-at="2017-11-17T11:43:25Z" finished-at="2017-11-17T11:43:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="search()[pri:0, instance:test.ExecuteTest@46d56d67]" name="search" duration-ms="14119" started-at="2017-11-17T11:43:52Z" finished-at="2017-11-17T11:44:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+        <test-method status="PASS" signature="quitDriver()[pri:0, instance:test.ExecuteTest@46d56d67]" name="quitDriver" is-config="true" duration-ms="1785" started-at="2017-11-17T11:44:06Z" finished-at="2017-11-17T11:44:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+      </class> <!-- test.ExecuteTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
